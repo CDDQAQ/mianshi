@@ -1,0 +1,15 @@
+ul{
+  display: flex;
+  width: 400px;
+  justify-content: space-between;
+}
+li{
+  list-style: none;
+}
+img{
+  position: relative;
+}
+input{
+  position: absolute;
+  z-index: 2;
+}
